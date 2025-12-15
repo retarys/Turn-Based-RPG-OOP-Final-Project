@@ -1,18 +1,5 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This project is a turn-based role-playing game (RPG) developed in Java. It uses the Swing library to create a graphical user interface, enabling the player to select characters, view enemy stats, and take turns attacking enemies in a structured level-based system. This RPG project serves as a comprehensive demonstration of Object-Oriented Programming (OOP) principles in practice.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+As a part of my final project for the class i've been instructed to to develop a project in Java to showcase my understanding of the OOP principles. While working on this project my understanding of the Java language and the principles of OOP have been improved, i look forward to working on other projects to develop my skills
